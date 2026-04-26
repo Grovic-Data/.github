@@ -2,7 +2,7 @@
 
 <p align="center"><img src="assets/Logo Grovic.jpeg" width="300" alt="Grovic Data Logo"/></p>
 
-# 🔴 GROVIC DATA
+# GROVIC DATA
 
 **Engenharia de Dados | Analytics | Desenvolvimento Full Stack | IA**
 
