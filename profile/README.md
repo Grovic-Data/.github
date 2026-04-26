@@ -1,6 +1,6 @@
 <div align="center">
 
-<p align="center"><img src="assets/Logo Grovic.jpeg" width="300" alt="Grovic Data Logo"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Grovic-Data/.github/main/assets/Logo%20Grovic.jpeg" width="300" alt="Grovic Data Logo"/></p>
 
 # GROVIC DATA
 
@@ -9,7 +9,7 @@
 [![Website](https://img.shields.io/badge/Website-Em%20Breve-C5A059?style=for-the-badge&logo=google-chrome&logoColor=white)](https://grovic.net)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Em%20Breve-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/grovicdata)
 [![Email](https://img.shields.io/badge/Email-Em%20Breve-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@grovic.net)
-![Profile Views](https://komarev.com/ghpvc/?username=GrovicData&color=C5A059&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Grovic-Data&color=C5A059&style=for-the-badge)
 
 *Na Grovic, fundimos Engenharia de Dados, Analytics e Desenvolvimento Full Stack para construir aplicações web robustas e orientadas a dados. Desde arquiteturas de backend inteligentes até frontends intuitivos, transformamos informações complexas em valor estratégico para os negócios e IA.*
 
@@ -74,7 +74,8 @@ Nossa seleção de ferramentas garante precisão em cada camada da aplicação.
 
 <div align="center">
 
-<img width="60%" src="https://streak-stats.demolab.com?user=GrovicData&theme=transparent&hide_border=true&background=0d1117&ring=C5A059&fire=FF0000&currStreakLabel=C5A059&sideLabels=c9d1d9&dates=c9d1d9" />
+[![Followers](https://img.shields.io/github/followers/Grovic-Data?style=for-the-badge&logo=github&logoColor=C5A059&label=Seguidores&labelColor=141414&color=C5A059)](https://github.com/Grovic-Data)
+[![Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&logoColor=C5A059&label=Repositórios&labelColor=141414&color=C5A059&url=https://api.github.com/orgs/Grovic-Data&query=public_repos)](https://github.com/orgs/Grovic-Data/repositories)
 
 </div>
 
