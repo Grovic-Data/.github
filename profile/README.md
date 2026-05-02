@@ -7,7 +7,7 @@
 **Engenharia de Dados | Analytics | Desenvolvimento Full Stack | IA**
 
 [![Website](https://img.shields.io/badge/Website-grovicdata.com-C5A059?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.grovicdata.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Em%20Breve-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/grovicdata)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Grovic Data-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/grovic-data)
 [![Email](https://img.shields.io/badge/Email-Em%20Breve-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@grovicdata.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=Grovic-Data&color=C5A059&style=for-the-badge)
 
