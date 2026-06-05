@@ -1,6 +1,6 @@
 <div align="center">
 
-<p align="center"><img src="https://raw.githubusercontent.com/Grovic-Data/.github/main/assets/Grovic.png" width="300" alt="Grovic Data Logo"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Grovic-Data/.github/main/assets/Grovic.png" width="1000" alt="Grovic Data Logo"/></p>
 
 # GROVIC DATA
 
